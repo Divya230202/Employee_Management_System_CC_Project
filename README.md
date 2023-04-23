@@ -1,6 +1,6 @@
-**CC Project
+CC Project
 
-Deploying Employee Management System in AWS cloud using EC2 and RDS**
+Deploying Employee Management System in AWS cloud using EC2 and RDS
 
 Done by:
 
