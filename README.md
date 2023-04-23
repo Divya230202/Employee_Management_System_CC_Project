@@ -1,5 +1,5 @@
 CC Project
-Deploying Employee Management System in AWS cloud using EC2 and RDS 
+Deploying Employee Management System in AWS cloud using EC2 and RDS\n
 
 Done by:
 PES1UG20CS214     Konka Meghana Chowdary
